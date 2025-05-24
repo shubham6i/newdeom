@@ -1,3 +1,3 @@
 # newdeom
 welcome to public repo
-shubham vernekar
+ suthor-shubham vernekar
